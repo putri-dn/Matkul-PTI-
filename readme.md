@@ -1,4 +1,4 @@
-# Jurnal praktikum pengenalaNama 
+# Jurnal praktikum pengenalan IDE
 Nama : Putri Dwi Novianti
 
 Kesan pertama menggunakan Visual Studio Code :
